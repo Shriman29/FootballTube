@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FootballTube/static/css/main.8d3bb1a0.css",
+    "main.js": "/FootballTube/static/js/main.23bdd181.js",
+    "index.html": "/FootballTube/index.html",
+    "main.8d3bb1a0.css.map": "/FootballTube/static/css/main.8d3bb1a0.css.map",
+    "main.23bdd181.js.map": "/FootballTube/static/js/main.23bdd181.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.23bdd181.js"
+  ]
+}
